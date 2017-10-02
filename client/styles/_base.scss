@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500');
+
+body {
+  font-family:
+    -apple-system,
+    system-ui,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Roboto,
+    "Helvetica Neue",
+    Arial,
+    sans-serif;
+}
+
+#root {
+  margin: 8px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a.active div {
+  background-color: #eee;
+}
