@@ -69,7 +69,7 @@
     "expect-jsx": "^4.0.0",
     "jest": "^21.2.1",
     "nightmare": "^2.10.0",
-    "node-sass": "^4.5.3",
+    "node-sass": "^7.0.0",
     "postcss-loader": "^2.0.6",
     "react-addons-test-utils": "^15.6.2",
     "react-styleguidist": "^6.0.26",
